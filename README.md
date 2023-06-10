@@ -14,6 +14,7 @@ Hello, my name is Brayan David Hernandez and I have 8 years of experience as an 
 
 <p align="left">
 <a href="https://www.credly.com/users/brayan-d-hernandez/badges" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331358/credly.svg" alt="cisco" width="40" height="40"/> </a>
+<a href="https://app.aluracursos.com/user/bdhdavid-bh" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/czVZm2x.png" alt="cisco" width="40" height="40"/> </a>
 <a href="https://www.credly.com/earner/earned/badge/ffefa74c-6966-4192-8330-c6ce78a94b6e" target="_blank" rel="noreferrer"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F806a15d4-eda7-46bf-ae2a-ec823f86ee68_1000x1000.jpeg" width="40" height="40" alt="IBM" /></a>
 <a href="https://www.credly.com/earner/earned/badge/32003daa-c06b-4b58-9b26-ede53bef6b7e/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/588px-Google_%22G%22_Logo.svg.png?20230305195327" alt="google" width="40" height="40"/> </a>
 <a href="https://www.coursera.org" target="_blank" rel="noreferrer"> <img src="https://www.langoly.com/wp-content/uploads/2021/09/coursera-logo.png" alt="coursera" width="40" height="40"/> </a>
