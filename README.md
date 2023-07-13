@@ -5,7 +5,7 @@
 Hello, my name is Brayan David Hernandez and I have 8 years of experience as an IT professional, I have been programming automation scripts for personal use for about 6 years and 2 years developing programs independently.
 
 - 🌍 I'm based in SPS, Honduras
-- ✉️ You can contact me at [Linkeding]([https://www.credly.com/users/brayan-d-hernandez/badges](https://www.linkedin.com/in/brayan-d-hernandez-4b22b6247/))
+- ✉️ You can contact me at [Linkeding](https://www.linkedin.com/in/brayan-d-hernandez-4b22b6247/)
 - 🧠 Currently learning Dev ops and Data Science
 - 🤝 I'm open to collaborating on Interesting Projects
 - 🤓 I'm passionate about almost all areas of computer science.
