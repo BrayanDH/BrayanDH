@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brayan
 
-## Full Stack Developer, Automation IT, Dev ops and Data Science.
+## Full Stack Developer, Automation IT and Data Scientist.
 
 Hello, my name is Brayan David Hernandez and I have 8 years of experience as an IT professional, I have been programming automation scripts for personal use for about 6 years and 2 years developing programs independently.
 
